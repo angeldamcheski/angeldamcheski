@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angel Damcheski</h1>
-<h3 align="center">A passionate student software engineer from Macedonia</h3>
+<h3 align="center">Software Engineering Student @ FCSE</h3>
 
 - 📫 How to reach me **damcheskiangel911@gmail.com**
 - Check out my **[Personal portfolio webpage](angeldamcheski.github.io)** 
