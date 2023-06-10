@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Angel Damcheski</h1>
 <h3 align="center">Software Engineering Student @ FCSE</h3>
+<h4 align="center">Highly motivated and dedicated professional with a passion for software
+development, specifically front-end development and web applications. Known for being hardworking, persistent, and always willing to take on any
+task assigned. Valuing both personal growth and efficient time
+management, I strive to constantly upgrade my skills and stay at the
+forefront of my professional development. A team worker with excellent
+interpersonal skills, I create a comfortable and positive work environment
+for those around me.</h4><br/>
 
 - 📫 How to reach me **damcheskiangel911@gmail.com**
 - Check out my **[Personal portfolio webpage](https://angeldamcheski.github.io/)** 
