@@ -8,7 +8,7 @@ forefront of my professional development. A team worker with excellent
 interpersonal skills, I create a comfortable and positive work environment
 for those around me.</h4><br/>
 
-- 📫 How to reach me **damcheskiangel911@gmail.com**
+- How to reach me **damcheskiangel911@gmail.com**
 - Check out my **[Personal portfolio webpage](https://angeldamcheski.github.io/)** 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
