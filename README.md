@@ -11,7 +11,7 @@
 
 ### 📫 How to reach me
 - 📧 Email: **damcheskiangel911@gmail.com**  
-- 🌐 Portfolio: [angeldamcheski.github.io](https://angeldamcheski.github.io)
+- 🌐 Portfolio: https://angeldamcheski.github.io/react-personal-portfolio/
 
 ---
 
